@@ -1,0 +1,28 @@
+https://www.kaggle.com/c/ieee-fraud-detection/data
+https://www.kaggle.com/viswajithkn/fraud-detection/comments
+https://www.intellias.com/how-to-use-machine-learning-in-fraud-detection/#:~:text=The%20concept%20behind%20using%20machine,a%20given%20transaction%20is%20legitimate.
+https://builtin.com/data-science
+https://www.kaggle.com/gpreda/credit-card-fraud-detection-predictive-models
+https://www.kaggle.com/robikscube/ieee-fraud-detection-first-look-and-eda
+https://en.wikipedia.org/wiki/Supervised_learning
+
+EDA- exploratory data analysis 
+
+wyslalem literature oraz plan pracy
+teraz tak : czy moge zmieniac ten plan w trakcie pisania? bo nie ukrywam ze ciezko mi bedzie cokolwiek zrobic
+jesli mam sie trzymac tych ram. Nie wiem jeszcze jaki bedzie uklad rozdzialow i podrozdzialow
+wolalbym decyzje o "spisie tresci" pozostawic do czasu opracowania calego badania
+czyli - zbuduje sobie swoj model w oparciu o inne istniejace implementacje (np. z ksiazek ktore podalem jako pozycje literackie)
+i porownam jego performance z innymi algorytmami/zlozeniami algorytmow (modelami)
+dzieki temu bede mial badanie pokazujace ze zrobilem model predykcyjny i moge go wykorzystac do datasetu i mam jakis performance
+musze miec mierniki tego performanceu np AOC/ krzywa ROC/ precision/ accuracy itp
+musze sobie taki zestaw miernikow wypracowac i uzywac go spojnie i do oceny isttniejacych algorytmow jak i do oceny pozniej
+swojego modelu.
+
+no i to bedzie cala praca
+pokaze ze przy wykorzystaniu odpowioednich zlozen metod i wielokrotnej wielowarstwowej analizy jestesmy
+w stanie uzyskac fajne wyniki (lepsze od prostych algorytmow)
+
+a 1 rozdzial napisze na koncu - typowa teoria odnosnie data science i eksploracyjnej analizy danych dotykajaca tez rdzenia pracy czyli
+wybranych metod nadzozorwanego uczenia maszynowego i ich potencjalnego wykorzystania do budowania modelu wykrywajacego oszutwa z wykorzystaniem kart kredytowych
+dataset bedzie z UCI IRVINE

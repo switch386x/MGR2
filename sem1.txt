@@ -1,0 +1,37 @@
+608584775
+
+zainteresowany informatyka
+projektowanie aplikacji etc, hobbystycznie
+
+obszar badawczy - dataset 1k rekordow czy cos takiego
+
+DSR 
+
+
+wykazanie jak mozna usprawnic analie finansowa w jakims aspoekcie ekonomicznym
+uczenie maszynowe 
+jak metoda ewoluuje
+
+teoria - uczenie maszynowe
+case - scoring w licencjacie 
+próba metoda DSR - przebadanie nowego rozwiazania wzgledem starych rozwiazan ytego typu 
+
+
+praca magisterska - metodyczne podejscie do problemu, rozbicie go na mniejsze porcje (atomizacja)
+i inkrementacyjne rozwiazywanie 
+
+7.11.2020
+PLAN PRACY - rozdzialy - podrozdzialy - slowa kluczowe
+TYTUL ROBOCZY
+
+gromadzenie literatury
+-technicznej
+-biznesowej
+
+FRAUD DETECTION?? - in fintech 
+https://www.intellias.com/how-to-use-machine-learning-in-fraud-detection/#:~:text=The%20concept%20behind%20using%20machine,a%20given%20transaction%20is%20legitimate.
+
+HFT's
+
+risk management/loan decisions - to robilem juz
+
